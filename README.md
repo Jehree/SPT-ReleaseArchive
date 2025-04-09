@@ -47,4 +47,4 @@ IMPORTANT: Make sure you are using 7zip for all extractions.
 # Credits
 - Battlestate games for developing Escape From Tarkov.
 - The SPT development team for the modding framework.
-- [Cj](https://github.com/CJ-SPT) For making the original readme and setting up the Legacy SPT Discord.
+- [Cj](https://github.com/CJ-SPT) For making the [original repo and readme](https://github.com/CJ-SPT/LEGACY-SPT-RELEASES) and setting up the Legacy SPT Discord.
