@@ -23,7 +23,7 @@ This is a safe means of installation, I am a [mod developer](https://hub.sp-tark
   - Do not bother mod authors about backporting mods in these cases.
 
 # Prerequisites
-- Make sure you own a copy of Escape From Tarkov (Edition does not matter)
+- Make sure you own a copy of Escape From Tarkov (Edition does not matter).
 - Make sure your live EFT is fully up to date and the play button is visible.
 - Make sure you have played atleast 1 live or PVE raid and that everything works as expected.
 
@@ -32,18 +32,18 @@ These installation directions will assume the install path is `C:\SPT\3.10.5` us
 
 IMPORTANT: Make sure you are using 7zip for all extractions.
 
-- **Make sure to close both Escape From Tarkov and the BSG launcher.**
-- Copy your live installation to a new folder EX: `C:\SPT\3.10.5`
+- **Make sure to close both Escape From Tarkov and the BSG launcher**.
+- Copy your live installation to a new folder EX: `C:\SPT\3.10.5`.
 - Download patcher to downpatch the game from BSG's current latest patch to `3.11.X`'s target client version from [here](https://spt-mirror.refringe.com/patchers/).
   - Note: If a new EFT patch just released, you may need to wait ~24 hours for the SPT team to create a new downpatcher.
-- Extract it to `C:\SPT\3.10.5\` and run it, once complete delete the `patcher.exe`
+- Extract it to `C:\SPT\3.10.5\` and run it, once complete delete the `patcher.exe`.
 - Download patcher to downpatch the game from `3.11.X`'s target client version to `3.10.5`'s target client version from [here](link needed).
-- Extract it to `C:\SPT\3.10.5\` and run it, once complete delete the `patcher.exe`
-- Download the SPT 3.10.5 release from [here](https://github.com/Jehree/SPT-LEGACY-RELEASES/releases/download/3.10.5/SPT-3.10.5-33420.7z)
+- Extract it to `C:\SPT\3.10.5\` and run it, once complete delete the `patcher.exe`.
+- Download the SPT 3.10.5 release from [here](https://github.com/Jehree/SPT-LEGACY-RELEASES/releases/download/3.10.5/SPT-3.10.5-33420.7z).
 - Extract the SPT release into `C:\SPT\3.10.5\`.
 - Launch `SPT.Server.exe` and wait for the green `server is running...` text.
 - Launch `SPT.Launcher.exe` and create your profile and begin playing.
 
 # Credits
-- Battlestate games for developing Escape From Tarkov
+- Battlestate games for developing Escape From Tarkov.
 - The SPT development team for the modding framework.
