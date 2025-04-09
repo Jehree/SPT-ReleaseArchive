@@ -39,8 +39,8 @@ IMPORTANT: Make sure you are using 7zip for all extractions.
 - Extract it to `C:\SPT\3.10.5\` and run it, once complete delete the `patcher.exe`
 - Download patcher to downpatch the game from `3.11.X`'s target client version to `3.10.5`'s target client version from [here](link needed).
 - Extract it to `C:\SPT\3.10.5\` and run it, once complete delete the `patcher.exe`
-- Download the SPT files from [the latest release in this repo](https://github.com/Jehree/SPT-LEGACY-RELEASES/releases)
-- Extract the spt release into `C:\SPT\3.10.5\`.
+- Download the SPT 3.10.5 release from [here](https://github.com/Jehree/SPT-LEGACY-RELEASES/releases/download/3.10.5/SPT-3.10.5-33420.7z)
+- Extract the SPT release into `C:\SPT\3.10.5\`.
 - Launch `SPT.Server.exe` and wait for the green `server is running...` text.
 - Launch `SPT.Launcher.exe` and create your profile and begin playing.
 
