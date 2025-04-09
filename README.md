@@ -4,7 +4,7 @@
 
 Legacy releases for people who wish to play the last major version of SPT rather than latest. This is not officially supported or endorsed by the SPT team. This does *NOT* bypass anti-piracy measures. This is simply a way for you to install legacy versions of SPT, current version target is `3.10.5`. I will not provide ways to bypass piracy measures.
 
-**This repo will only ever allow install of ONE major version back from current latest. Once `4.0.X` is out, `3.10.5` will no longer be available.**
+**Downpatchers are only guaranteed to exist for ONE major version back from current latest. Once `4.0.X` is out, the ability to install `3.10.5` is not guaranteed.**
 
 Please join the [Legacy SPT discord](https://discord.gg/XXeSBuKnHP) for discussions around old versions of SPT. Please keep any and all discussions here rather than the official SPT discord out of respect of the wishes of SPT staff/developers who made this project possible in the first place. 
 
