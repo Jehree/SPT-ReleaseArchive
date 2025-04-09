@@ -2,9 +2,9 @@
 - TARGET: 3.10.5 (released 2nd April 2024)
 - EFT Client Version: 0.15.5.1 33420 (released 2nd November 2024)
 
-Legacy releases for people who wish to player older versions of SPT. This is not officially supported or endorsed by the SPT team. This does *NOT* bypass anti-piracy measures. This is simply a way for you to install legacy versions of SPT, current version target is `3.10.5`. I will not provide ways to bypass piracy measures.
+Legacy releases for people who wish to play the last major version of SPT rather than latest. This is not officially supported or endorsed by the SPT team. This does *NOT* bypass anti-piracy measures. This is simply a way for you to install legacy versions of SPT, current version target is `3.10.5`. I will not provide ways to bypass piracy measures.
 
-**This repo will only ever allow install of ONE major version back from current latest. Once `4.0.0` is out, `3.10.5` will no longer be available.**
+**This repo will only ever allow install of ONE major version back from current latest. Once `4.0.X` is out, `3.10.5` will no longer be available.**
 
 Please join the [Legacy SPT discord](https://discord.gg/XXeSBuKnHP) for discussions around old versions of SPT. Please keep any and all discussions here rather than the official SPT discord out of respect of the wishes of SPT staff/developers who made this project possible in the first place. 
 
@@ -33,16 +33,16 @@ These installation directions will assume the install path is `C:\SPT\3.10.5` us
 IMPORTANT: Make sure you are using 7zip for all extractions.
 
 - Copy your live installation to a new folder EX: `C:\SPT\3.10.5`
-- Download the downpatcher to patch the game from BSG's current latest patch to `3.11.x`'s target client version from [here](link needed).
+- Download patcher to downpatch the game from BSG's current latest patch to `3.11.X`'s target client version from [here](https://spt-mirror.refringe.com/patchers/).
+  - Note: If a new EFT patch just released, you may need to wait ~24 hours for the SPT team to create a new downpatcher.
 - Extract it to `C:\SPT\3.10.5\` and run it, once complete delete the `patcher.exe`
-- Download the downpatcher to patch the game from `3.11.x`'s target client version to `3.10.5`'s target client version from [here](link needed).
+- Download patcher to downpatch the game from `3.11.X`'s target client version to `3.10.5`'s target client version from [here](link needed).
 - Extract it to `C:\SPT\3.10.5\` and run it, once complete delete the `patcher.exe`
-- Now download the SPT files from [the latest release in this repo](https://github.com/Jehree/SPT-LEGACY-RELEASES/releases)
+- Download the SPT files from [the latest release in this repo](https://github.com/Jehree/SPT-LEGACY-RELEASES/releases)
 - Extract the spt release into `C:\SPT\3.10.5\`.
-- launch `SPT.Server.exe` and wait for the green `server is running...` text.
-- launch `SPT.Launcher.exe` and create your profile and begin playing.
+- Launch `SPT.Server.exe` and wait for the green `server is running...` text.
+- Launch `SPT.Launcher.exe` and create your profile and begin playing.
 
 # Credits
-
 - Battlestate games for developing Escape From Tarkov
 - The SPT development team for the modding framework.
