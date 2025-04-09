@@ -38,7 +38,7 @@ IMPORTANT: Make sure you are using 7zip for all extractions.
   - If a new EFT patch just released, you may need to wait ~24 hours for the SPT team to create a new downpatcher.
   - If EFT is _already_ on the target client version for `3.11.X`, you can skip this step.
 - Extract it to `C:\SPT\3.10.5\` and run it, once complete delete the `patcher.exe`.
-- Download patcher to downpatch the game from `3.11.X`'s target client version to `3.10.5`'s target client version from [here](link needed).
+- Download patcher to downpatch the game from `3.11.X`'s target client version to `3.10.5`'s target client version from [here](https://spt.dev/patchers/Patcher_0.16.1.35392_to_0.15.5.1.33420.7z).
 - Extract it to `C:\SPT\3.10.5\` and run it, once complete delete the `patcher.exe`.
 - Download the SPT 3.10.5 release from [here](https://github.com/Jehree/SPT-LEGACY-RELEASES/releases/download/3.10.5/SPT-3.10.5-33420.7z).
 - Extract the SPT release into `C:\SPT\3.10.5\`.
