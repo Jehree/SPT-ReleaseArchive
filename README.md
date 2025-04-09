@@ -24,6 +24,7 @@ This is a safe means of installation, I am a [mod developer](https://hub.sp-tark
 
 # Prerequisites
 - Make sure you own a copy of Escape From Tarkov (Edition does not matter)
+- After the step above is complete, **Close both Escape From Tarkov and the BSG launcher**.
 - Make sure your live EFT is fully up to date and the play button is visible.
 - Make sure you have played atleast 1 live or PVE raid and that everything works as expected.
 
