@@ -35,7 +35,8 @@ IMPORTANT: Make sure you are using 7zip for all extractions.
 - **Make sure to close both Escape From Tarkov and the BSG launcher**.
 - Copy your live installation to a new folder EX: `C:\SPT\3.10.5`.
 - Download patcher to downpatch the game from BSG's current latest patch to `3.11.X`'s target client version from [here](https://spt-mirror.refringe.com/patchers/).
-  - Note: If a new EFT patch just released, you may need to wait ~24 hours for the SPT team to create a new downpatcher.
+  - If a new EFT patch just released, you may need to wait ~24 hours for the SPT team to create a new downpatcher.
+  - If EFT is _already_ on the target client version for `3.11.X`, you can skip this step.
 - Extract it to `C:\SPT\3.10.5\` and run it, once complete delete the `patcher.exe`.
 - Download patcher to downpatch the game from `3.11.X`'s target client version to `3.10.5`'s target client version from [here](link needed).
 - Extract it to `C:\SPT\3.10.5\` and run it, once complete delete the `patcher.exe`.
