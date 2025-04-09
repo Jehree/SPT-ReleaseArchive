@@ -1,4 +1,4 @@
-# LEGACY SPT RELEASES (WIP, FILES NOT LIVE YET)
+# SPT ARCHIVE (WIP, FILES NOT LIVE YET)
 - TARGET: 3.10.5 (released 2nd April 2024)
 - EFT Client Version: 0.15.5.1 33420 (released 2nd November 2024)
 
