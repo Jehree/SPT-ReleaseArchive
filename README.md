@@ -24,7 +24,6 @@ This is a safe means of installation, I am a [mod developer](https://hub.sp-tark
 
 # Prerequisites
 - Make sure you own a copy of Escape From Tarkov (Edition does not matter)
-- After the step above is complete, **Close both Escape From Tarkov and the BSG launcher**.
 - Make sure your live EFT is fully up to date and the play button is visible.
 - Make sure you have played atleast 1 live or PVE raid and that everything works as expected.
 
@@ -33,6 +32,7 @@ These installation directions will assume the install path is `C:\SPT\3.10.5` us
 
 IMPORTANT: Make sure you are using 7zip for all extractions.
 
+- **Make sure to close both Escape From Tarkov and the BSG launcher.**
 - Copy your live installation to a new folder EX: `C:\SPT\3.10.5`
 - Download patcher to downpatch the game from BSG's current latest patch to `3.11.X`'s target client version from [here](https://spt-mirror.refringe.com/patchers/).
   - Note: If a new EFT patch just released, you may need to wait ~24 hours for the SPT team to create a new downpatcher.
