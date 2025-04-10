@@ -4,7 +4,7 @@
 
 Legacy releases for people who wish to play the last major version of SPT rather than latest. This is not officially supported or endorsed by the SPT team. This does *NOT* bypass anti-piracy measures. This is simply a way for you to install legacy versions of SPT, current version target is `3.10.5`. I will not provide ways to bypass piracy measures.
 
-**Downpatchers are only guaranteed to exist for ONE major version back from current latest. Once `4.0.X` is out, the ability to install `3.10.5` is not guaranteed.**
+**This repo will only ever support ONE major version back from current SPT latest. Once `4.0.X` is out, the ability to install `3.10.5` will no longer be available for install.**
 
 Please join the [Legacy SPT discord](https://discord.gg/XXeSBuKnHP) for discussions around old versions of SPT. Please keep any and all discussions here rather than the official SPT discord out of respect of the wishes of SPT staff/developers who made this project possible in the first place. 
 
@@ -34,11 +34,8 @@ IMPORTANT: Make sure you are using 7zip for all extractions.
 
 - **Make sure to close both Escape From Tarkov and the BSG launcher**.
 - Copy your live installation to a new folder EX: `C:\SPT\3.10.5`.
-- Download patcher to downpatch the game from BSG's current latest patch to `3.11.X`'s target client version from [here](https://spt-mirror.refringe.com/patchers/).
-  - If a new EFT patch just released, you may need to wait ~24 hours for the SPT team to create a new downpatcher.
-  - If EFT is _already_ on the target client version for `3.11.X`, you can skip this step.
-- Extract it to `C:\SPT\3.10.5\` and run it, once complete delete the `patcher.exe`.
-- Download patcher to downpatch the game from `3.11.X`'s target client version to `3.10.5`'s target client version from [here](https://spt.dev/patchers/Patcher_0.16.1.35392_to_0.15.5.1.33420.7z).
+- Download downpatcher from [here](https://spt.dev/patchers/Patcher_16.5.6.36217_to_0.15.5.1.33420.7z).
+  - If this downpatcher is outdated, join the [Legacy SPT discord](https://discord.gg/XXeSBuKnHP) and look in the #install-request channel.
 - Extract it to `C:\SPT\3.10.5\` and run it, once complete delete the `patcher.exe`.
 - Download the SPT 3.10.5 release from [here](https://github.com/Jehree/SPT-LEGACY-RELEASES/releases/download/3.10.5/SPT-3.10.5-33420.7z).
 - Extract the SPT release into `C:\SPT\3.10.5\`.
@@ -49,4 +46,4 @@ IMPORTANT: Make sure you are using 7zip for all extractions.
 - Battlestate games for developing Escape From Tarkov.
 - The SPT development team for the modding framework.
 - [Cj](https://github.com/CJ-SPT) For making the [original repo and readme](https://github.com/CJ-SPT/LEGACY-SPT-RELEASES) and setting up the Legacy SPT Discord.
-- [Refringe](https://github.com/refringe) For helping with hosting the patcher.
+- [Refringe](https://github.com/refringe) For helping with hosting the downpatcher.
