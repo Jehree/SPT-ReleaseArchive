@@ -34,7 +34,7 @@ IMPORTANT: Make sure you are using 7zip for all extractions.
 
 - **Make sure to close both Escape From Tarkov and the BSG launcher**.
 - Copy your live installation to a new folder EX: `C:\SPT\3.10.5`.
-- Download downpatcher from [here](https://downloadthis.info/patchers/Patcher_0.16.6.0.36679_to_0.15.5.1.33420.7z).
+- Download downpatcher from [here](https://downloadthis.info/patchers/0.16.7.1.37759_to_0.15.5.1.33420.7z).
   - If this downpatcher is outdated, join the [Legacy SPT discord](https://discord.gg/XXeSBuKnHP) and look in the #install-request channel.
 - Extract it to `C:\SPT\3.10.5\` and run it, once complete delete the `patcher.exe`.
 - Download the SPT 3.10.5 release from [here](https://github.com/Jehree/SPT-LEGACY-RELEASES/releases/download/3.10.5/SPT-3.10.5-33420.7z).
